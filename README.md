@@ -22,3 +22,5 @@ Este projeto implementa um sistema simples de gerenciamento de produtos utilizan
    ```bash
    git clone https://github.com/VituFelipe/projeto-tree-setmap.git
    cd projeto-tree-setmap
+   
+Autor: Vitu

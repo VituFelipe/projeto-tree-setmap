@@ -34,6 +34,7 @@ public class Main {
         s.close();
     }
 
+
     private static void insere() {
         System.out.println("Digite o id");
         Integer id = s.nextInt();
